@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CWC23QUALIF
+
 # cook your dish here
 n = int(input())
 if n >= 12:
