@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/REDBLUEGEM
+
 # cook your dish here
 r, b, p, q = map(int, input().split())
 red_gem = r * p
