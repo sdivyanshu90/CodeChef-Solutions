@@ -1,4 +1,4 @@
-# Question Link: https://www.codechef.com/problems/WEIGHTLIFT
+# Question Link: https://www.codechef.com/problems/WEIGHTLIFT   
 
 # cook your dish here
 a, b, c, d, e, f = map(int, input().split())
