@@ -6,5 +6,7 @@ cuboid = a * b * c
 cube = x ** 3
 if cuboid > cube:
     print("Cuboid")
-else:
+elif cube > cuboid:
     print("Cube")
+else:
+    print("Equal")
