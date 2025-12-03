@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/AMR15A
+
 # cook your dish here
 n = int(input())
 a = list(map(int, input().split()))
