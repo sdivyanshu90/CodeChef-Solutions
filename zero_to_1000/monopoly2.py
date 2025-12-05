@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/MONOPOLY2
+
 # cook your dish here
 for _ in range(int(input())):
     p, q, r, s = map(int, input().split())
