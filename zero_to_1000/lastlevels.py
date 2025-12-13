@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/LASTLEVELS
+
 # cook your dish here
 for _ in range(int(input())):
     level, minutes, breaks = map(int, input().split())
