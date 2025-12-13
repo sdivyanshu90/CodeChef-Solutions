@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FILLCANDIES
+
 # cook your dish here
 for _ in range(int(input())):
     candies, pockets, pocket_capacity = map(int, input().split())
