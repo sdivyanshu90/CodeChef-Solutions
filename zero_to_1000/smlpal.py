@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SMLPAL
+
 # cook your dish here
 for _ in range(int(input())):
     ones, twos = map(int, input().split())
