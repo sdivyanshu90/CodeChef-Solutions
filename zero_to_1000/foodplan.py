@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FOODPLAN
+
 # cook your dish here
 for _ in range(int(input())):
     online, offline = map(int, input().split())
