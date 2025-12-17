@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SPEEDTEST
+
 # cook your dish here
 for _ in range(int(input())):
     a, x, b, y = map(int, input().split())
