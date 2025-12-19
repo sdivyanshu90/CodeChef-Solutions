@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/XYZ343
+
 # cook your dish here
 for _ in range(int(input())):
     x, y, z = map(int, input().split())
