@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DONUTSELL
+
 # cook your dish here
 for _ in range(int(input())):
     N, M = map(int, input().split())
