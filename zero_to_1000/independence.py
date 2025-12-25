@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/INDEPENDENCE
+
 # cook your dish here
 for _ in range(int(input())):
     o, w, g = map(int, input().split())
