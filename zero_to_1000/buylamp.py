@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/BUYLAMP
+
 # cook your dish here
 for _ in range(int(input())):
     n, k, x, y = map(int, input().split())
