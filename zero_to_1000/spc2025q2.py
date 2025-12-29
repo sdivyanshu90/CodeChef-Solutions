@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SPC2025Q2
+
 # cook your dish here
 for _ in range(int(input())):
     n, ved, varun = map(int, input().split())
