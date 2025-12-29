@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/TLG
+
 # cook your dish here
 rounds = []
 for _ in range(int(input())):
