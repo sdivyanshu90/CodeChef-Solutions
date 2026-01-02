@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/GENE01
+
 # cook your dish here
 a, b = map(str, input().split())
 if a == "R" or b == "R":
