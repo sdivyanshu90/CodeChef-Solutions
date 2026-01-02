@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/BFLY
+
 # cook your dish here
 for _ in range(int(input())):
     r, g, b = map(int, input().split())
