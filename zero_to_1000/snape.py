@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SNAPE
+
 # cook your dish here
 for _ in range(int(input())):
     b, ls = map(int, input().split())
