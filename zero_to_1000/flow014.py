@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FLOW014
+
 # cook your dish here
 for _ in range(int(input())):
     h, c, t = map(float, input().split())
