@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/MIXTURE
+
 # cook your dish here
 for _ in range(int(input())):
     a, b = map(int, input().split())
