@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/BMI
+
 # cook your dish here
 for _ in range(int(input())):
     m, h = map(int, input().split())
