@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/HATTRICK
+
 # cook your dish here
 for _ in range(int(input())):
     a = list(map(str, input().split()))
