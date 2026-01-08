@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/PERMUT2
+
 # cook your dish here
 while True:
     n = int(input())
