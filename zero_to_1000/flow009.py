@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FLOW009
+
 # cook your dish here
 for _ in range(int(input())):
     quantity, price = map(int, input().split())
