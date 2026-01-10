@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/HDIVISR
+
 # cook your dish here
 res = []
 n = int(input())
