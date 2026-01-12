@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DIS2SUB
+
 # cook your dish here
 for i in range(int(input())):
     n = int(input())
