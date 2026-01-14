@@ -1,6 +1,6 @@
-# cook your dish here
-import math
+# Question Link: https://www.codechef.com/problems/FCTRL
 
+# cook your dish here
 for _ in range(int(input())):
     n = int(input())
     count = 0
