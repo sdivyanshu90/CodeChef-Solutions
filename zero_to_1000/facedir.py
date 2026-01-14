@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FACEDIR
+
 # cook your dish here
 for _ in range(int(input())):
     x = int(input())
