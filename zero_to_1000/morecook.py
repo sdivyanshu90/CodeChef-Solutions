@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/MORECOOK
+
 # cook your dish here
 for _ in range(int(input())):
     n, c = map(int, input().split())
