@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/GCEA
+
 # cook your dish here
 for _ in range(int(input())):
     n, x, y = map(int, input().split())
