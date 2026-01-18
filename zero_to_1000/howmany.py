@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/HOWMANY
+
 # cook your dish here
 n = int(input())
 res = 0
