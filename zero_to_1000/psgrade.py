@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/PSGRADE
+
 # cook your dish here
 for _ in range(int(input())):
     am, bm, cm, tm, a, b, c  = map(int, input().split())
