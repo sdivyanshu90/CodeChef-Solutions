@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SMARTER
+
 # cook your dish here
 from math import ceil
 
