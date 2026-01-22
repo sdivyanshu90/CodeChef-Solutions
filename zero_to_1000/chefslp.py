@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CHEFSLP
+
 # cook your dish here
 for _ in range(int(input())):
     n, left, x = map(int, input().split())
