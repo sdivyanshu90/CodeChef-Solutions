@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/NOTIME
+
 # cook your dish here
 n, h, x = map(int, input().split())
 t = list(map(int, input().split()))
