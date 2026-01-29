@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/JMARKET
+
 # cook your dish here
 for _ in range(int(input())):
     x, a, b, c = map(int, input().split())
