@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CCOOK
+
 # cook your dish here
 for i in range(int(input())):
     p = list(map(int, input().split()))
