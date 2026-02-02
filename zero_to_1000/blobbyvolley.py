@@ -1,5 +1,7 @@
+# Question Link: https://www.codechef.com/problems/BLOBBYVOLLEY
+
 # cook your dish here
-for i in range(int(input())):
+for _ in range(int(input())):
     n = int(input())
     s = input()
     server = 0
