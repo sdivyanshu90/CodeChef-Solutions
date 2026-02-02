@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CRICRANK
+
 # cook your dish here
 for _ in range(int(input())):
     r1, w1, c1 = map(int, input().split())
