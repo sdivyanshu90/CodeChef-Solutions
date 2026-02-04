@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/POPCORN
+
 # cook your dish here
 for _ in range(int(input())):
     a1, a2 = map(int, input().split())
