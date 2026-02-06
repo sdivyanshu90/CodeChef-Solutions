@@ -1,4 +1,4 @@
-# Question Link: https://www.codechef.com/START11B/problems/MOOCHEF
+# Question Link: https://www.codechef.com/problems/MOOCHEF
 
 # cook your dish here
 for _ in range(int(input())):
