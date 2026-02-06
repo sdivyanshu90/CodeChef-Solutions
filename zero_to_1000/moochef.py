@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/START11B/problems/MOOCHEF
+
 # cook your dish here
 for _ in range(int(input())):
     n, l, r = map(int, input().split())
