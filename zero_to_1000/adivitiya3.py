@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/ADIVITIYA3
+
 # cook your dish here
 for _ in range(int(input())):
     n, k = map(int, input().split())
