@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/BLITZ3_2
+
 # cook your dish here
 for _ in range(int(input())):
     n, a, b = map(int, input().split())
