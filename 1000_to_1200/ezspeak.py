@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/EZSPEAK
+
 # cook your dish here
 for _ in range(int(input())):
     n = int(input())
