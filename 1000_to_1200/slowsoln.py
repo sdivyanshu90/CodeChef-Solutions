@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SLOWSOLN
+
 # cook your dish here
 for _ in range(int(input())):
     maxt, maxn, sumn = map(int, input().split())
