@@ -1,3 +1,6 @@
+# Question Link: https://www.codechef.com/problems/CS2023_STK
+
+# cook your dish here
 for _ in range(int(input())):
     N = int(input())
     A = list(map(int, input().split()))
