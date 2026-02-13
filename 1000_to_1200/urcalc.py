@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/URCALC
+
 # cook your dish here
 a = int(input())
 b = int(input())
