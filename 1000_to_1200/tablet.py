@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/TABLET
+
 # cook your dish here
 for _ in range(int(input())):
     n, budget = map(int, input().split())
