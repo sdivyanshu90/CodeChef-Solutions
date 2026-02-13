@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CANDY123
+
 # cook your dish here
 for _ in range(int(input())):
     A, B = map(int, input().split())
