@@ -1,4 +1,4 @@
-# Question Link: https://www.codechef.com/problems/JOINTSTATE
+# Question Link: https://www.codechef.com/problems/JOINSTATE
 
 # cook your dish here
 for _ in range(int(input())):
