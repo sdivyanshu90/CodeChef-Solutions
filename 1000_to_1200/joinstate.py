@@ -12,3 +12,4 @@ for _ in range(int(input())):
             res += 1
             cum_sum = 0
     print(res)
+    
