@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FODCHAIN
+
 # cook your dish here
 for _ in range(int(input())):
     e, k = map(int, input().split())
