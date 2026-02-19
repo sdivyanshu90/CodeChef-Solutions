@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/PRIME1
+
 # cook your dish here
 def prime(n):
     if n < 2:
