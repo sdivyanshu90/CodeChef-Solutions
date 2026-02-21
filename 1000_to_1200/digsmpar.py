@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DIGSMPAR
+
 # cook your dish here
 for _ in range(int(input())):
     n = input().strip()
