@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/TRICOIN
+
 # cook your dish here
 import math
 
