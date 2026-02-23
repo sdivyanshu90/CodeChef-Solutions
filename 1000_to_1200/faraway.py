@@ -1,3 +1,5 @@
+# Question: https://www.codechef.com/START11B/problems/FARAWAY
+
 # cook your dish here
 for _ in range(int(input())):
     N, M = map(int, input().split())
