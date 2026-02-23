@@ -1,4 +1,4 @@
-# Question: https://www.codechef.com/START11B/problems/GRPASSN
+# Question: https://www.codechef.com/problems/GRPASSN
 
 # cook your dish here
 for _ in range(int(input())):
