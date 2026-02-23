@@ -1,4 +1,4 @@
-# Question: https://www.codechef.com/START11B/problems/MAGICHF
+# Question: https://www.codechef.com/problems/MAGICHF
 
 # cook your dish here
 for _ in range(int(input())):
