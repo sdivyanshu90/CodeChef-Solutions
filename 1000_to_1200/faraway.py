@@ -1,4 +1,4 @@
-# Question: https://www.codechef.com/START11B/problems/FARAWAY
+# Question: https://www.codechef.com/problems/FARAWAY
 
 # cook your dish here
 for _ in range(int(input())):
