@@ -1,4 +1,5 @@
-# cook your dish here
+# Question: https://www.codechef.com/problems/WATSCORE
+
 # cook your dish here
 for _ in range(int(input())):
     n = int(input())
