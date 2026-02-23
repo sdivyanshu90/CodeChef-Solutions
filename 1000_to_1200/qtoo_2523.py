@@ -1,3 +1,5 @@
+# Question: https://www.codechef.com/problems/QTOO_2523
+
 # cook your dish here
 for _ in range(int(input())):
     n = int(input())
