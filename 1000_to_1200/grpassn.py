@@ -1,3 +1,5 @@
+# Question: https://www.codechef.com/START11B/problems/GRPASSN
+
 # cook your dish here
 for _ in range(int(input())):
     n = int(input())
