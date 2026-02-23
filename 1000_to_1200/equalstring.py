@@ -1,4 +1,4 @@
-# Question: https://www.codechef.com/START11B/problems/EQUALSTRING
+# Question: https://www.codechef.com/problems/EQUALSTRING
 
 # cook your dish here
 for _ in range(int(input())):
