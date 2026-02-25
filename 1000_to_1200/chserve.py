@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CHSERVE
+
 # cook your dish here
 for _ in range(int(input())):
     chef, cook, k = map(int, input().split())
