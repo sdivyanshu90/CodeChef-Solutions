@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/MAKEMONEY
+
 # cook your dish here
 for _ in range(int(input())):
     n, x, c = map(int, input().split())
