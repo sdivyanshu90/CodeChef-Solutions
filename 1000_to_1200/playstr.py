@@ -1,4 +1,4 @@
-# Question Link: https://www.codechef.com/START100B/problems/PLAYSTR
+# Question Link: https://www.codechef.com/problems/PLAYSTR
 
 # cook your dish here
 for _ in range(int(input())):
