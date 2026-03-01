@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DIVIDING
+
 # cook your dish here
 n = int(input())
 c = list(map(int, input().split()))
