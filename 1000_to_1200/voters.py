@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/VOTERS
+
 # cook your dish here
 from collections import Counter
 import sys
