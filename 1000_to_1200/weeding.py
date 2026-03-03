@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/WEEDING
+
 # cook your dish here
 for _ in range(int(input())):
     no_weed, m_total_days, k_spray_kill_weed = map(int, input().split())
