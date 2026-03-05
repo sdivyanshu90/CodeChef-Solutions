@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/XYSTR
+
 # cook your dish here
 for _ in range(int(input())):
     s = input().strip()
