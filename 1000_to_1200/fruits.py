@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FRUITS
+
 # cook your dish here
 for _ in range(int(input().strip())):
     apple, orange, gold = map(int, input().split())
