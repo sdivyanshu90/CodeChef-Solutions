@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/MATPAN
+
 # cook your dish here
 from string import ascii_lowercase
 
