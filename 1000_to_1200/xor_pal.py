@@ -4,11 +4,9 @@
 for _ in range(int(input())):
     n = int(input())
     s = input()
-    target = s[::-1]
-    
-    idx = []
-    for i in range(len(s)):
-        if s[i] != target[i]:
-            idx.append(i + 1)
-            
-    print(idx)
+    if s == s[::-1]:
+        print(0)
+        next
+    else:
+        diff = [int(s[i] == s[-(i+1)]) for i in range(len(s)//2)]
+        print(-(-diff.count(0)//2))
