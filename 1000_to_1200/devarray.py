@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DEVARARRAY
+
 # cook your dish here
 n, q = map(int, input().split())
 a = list(map(int, input().split()))
