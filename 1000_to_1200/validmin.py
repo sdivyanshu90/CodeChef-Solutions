@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/VALIDMIN
+
 # cook your dish here
 for _ in range(int(input())):
     a = list(map(int, input().split()))
