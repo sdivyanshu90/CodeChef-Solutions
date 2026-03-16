@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/CIELAB
+
 # cook your dish here
 a, b = map(int, input().split())
 diff = a - b
