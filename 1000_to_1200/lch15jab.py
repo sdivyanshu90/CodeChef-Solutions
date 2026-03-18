@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/LCH15JAB
+
 # cook your dish here
 from collections import Counter
 
