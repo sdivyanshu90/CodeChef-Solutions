@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/FINALSUM
+
 # cook your dish here
 for _ in range(int(input())):
     n, q = map(int, input().split())
