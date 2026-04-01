@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/XLSQUARE
+
 # cook your dish here
 from math import isqrt
 
