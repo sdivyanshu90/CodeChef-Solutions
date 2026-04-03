@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/LUCKYSTR
+
 # cook your dish here
 k, n = map(int, input().split())
 A = [input().strip() for _ in range(k)]
