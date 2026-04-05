@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/DOTIFYPLAY
+
 # cook your dish here
 for _ in range(int(input())):
     n, k, l = map(int, input().split())
