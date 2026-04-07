@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/ANKTRAIN
+
 # cook your dish here
 partners = {1: 'LB', 4: 'LB', 2: 'MB', 5: 'MB', 3: 'UB', 6: 'UB', 7: 'SL', 0: 'SU'}
 
