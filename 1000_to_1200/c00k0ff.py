@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/C00K0FF
+
 # cook your dish here
 difficulty_map = {
     'cakewalk': 1,
