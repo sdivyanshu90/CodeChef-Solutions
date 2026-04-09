@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SWISHGAME
+
 # cook your dish here
 for _ in range(int(input())):
     m, k = map(int, input().split())
