@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/SHORTSPELL
+
 # cook your dish here
 for _ in range(int(input())):
     a = int(input())
