@@ -1,3 +1,5 @@
+# Question Link: https://www.codechef.com/problems/P3209
+
 # cook your dish here
 from math import gcd
 
